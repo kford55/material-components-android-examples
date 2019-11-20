@@ -17,7 +17,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
-        android:layout_width="match_parent"
+        android:layout_width="@dimen/email_list_width"
         android:layout_height="wrap_content"
         android:clipToPadding="false"
         android:paddingTop="@dimen/grid_0_25"
