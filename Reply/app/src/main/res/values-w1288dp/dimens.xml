@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_max_list_width">800dp</dimen>
+    <dimen name="min_gutter_width">88dp</dimen>
+    <dimen name="side_nav_width">312dp</dimen>
+</resources>

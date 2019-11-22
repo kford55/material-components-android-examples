@@ -33,5 +33,7 @@
 
     <dimen name="chip_icon_diameter">32dp</dimen>
 
-    <dimen name="email_list_width">-1.0px</dimen>
+    <dimen name="email_max_list_width">-1.0px</dimen>
+    <dimen name="min_gutter_width">0dp</dimen>
+    <dimen name="side_nav_width">0dp</dimen>
 </resources>
